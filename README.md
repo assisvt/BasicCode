@@ -1,2 +1,2 @@
-# CodigoBasico
-Códigos e comandos básicos DOCUMENTAÇÃO em prática
+# Códigos Básicos
+Fundamentos e funções básicas em Python.
